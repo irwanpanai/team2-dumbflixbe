@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
-    "database": "dumbflix",
-    "host": "127.0.0.1",
+    "username": "team2",
+    "password": "team2mantap",
+    "database": "dumbflix-db",
+    "host": "103.127.132.62",
     "dialect": "mysql",
     "operatorsAliases": false
   },
