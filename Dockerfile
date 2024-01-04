@@ -8,8 +8,6 @@ RUN npm install sequelize-cli -g
 
 RUN npm install pm2 -g
 
-COPY migrations /migrations
-
 RUN sequelize db:migrate
 
 EXPOSE 5000
